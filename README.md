@@ -1,3 +1,3 @@
 # hello-world
-p.first exercise
-p.imputting text to see if this works
+first exercise
+imputting text to see if this works
